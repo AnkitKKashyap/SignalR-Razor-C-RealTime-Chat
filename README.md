@@ -1,10 +1,8 @@
-# SignalR-Razor-C-RealTime-Chat
+SignalR Razor RealTime Chat
 
-This Project teaches the basics of building a real-time app using SignalR. You learn how to:
+This Project teaches the basics of building a real-time app using SignalR:
 
--Create a web project.
--Add the SignalR client library.
--Create a SignalR hub.
--Configure the project to use SignalR.
--Add code that sends messages from any client to all connected clients.
--At the end, you'll have a working chat app.
+- Open a web project.
+- cntrl + F5 To Run this project
+- sends messages from any client to all connected clients.
+- At the end, you'll have a working chat app.
